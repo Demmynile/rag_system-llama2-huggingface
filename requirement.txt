@@ -1,0 +1,14 @@
+llama-index
+openai
+pypdf
+python-dotenv
+transformers
+einops
+accelerate
+langchain
+bitsandbytes
+sentence_transformers
+llama-index-llms-huggingface
+torch
+torchvision 
+torchaudio
